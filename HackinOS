@@ -1,0 +1,3 @@
+Hackinos Oneliner to create MD5 upload string:
+
+for i in {1..101};do echo -n "file.php"$i | md5sum | awk '{print $1".php"}' >> dirb_hackinos;done
