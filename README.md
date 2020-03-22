@@ -1,2 +1,2 @@
 # CTF
-Usefull command used during CTF
+Usefull command used on HTB.
